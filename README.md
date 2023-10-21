@@ -108,7 +108,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or need assistance, please contact [Your Name] at [your@email.com].
-```
-
-Remember to replace `[repository_url]`, `[Your Name]`, and `[your@email.com]` with the actual details for your project. This README file provides basic information about the Spring Boot project, how to use it, and how to contribute. You can add more details or sections as needed.
+If you have any questions or need assistance, please contact Md Toufique Husein at toufique.husein@gmail.com.
