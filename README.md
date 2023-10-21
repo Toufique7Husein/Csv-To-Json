@@ -52,7 +52,7 @@ This Spring Boot project is a RESTful API that takes a CSV file as input and con
 2. Use a REST client (e.g., Postman or cURL) to send a POST request to the following endpoint to perform the conversion:
 
    ```
-   POST http://localhost:8080/convert
+   POST http://localhost:8080/convert](http://localhost:8080/uploadCsv
    ```
 
    Include your CSV file as a multipart/form-data file in the request.
